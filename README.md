@@ -1,8 +1,8 @@
 # Chat App
 
-Aplicacion basica de chat utilizando Flutter con Socket.io
+Basic chat application using Flutter with Socket.io
 
-[Backend de este proyecto](https://github.com/Picorete/chat_app_backend)
+[Backend](https://github.com/Picorete/chat_app_backend)
 
 Screenshots
 
